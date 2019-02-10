@@ -1,17 +1,21 @@
 # Resbaz-Lab-Book-example
 Practicing resbaz lab book methods.
 
-I am editing this document for practise. 
-# This is a title
-## This is a different title?
-Two sorts of headers. 
-### Different header?
-More hashtags, smaller header. 
-###### Smallest header
-Alright.
+# Link sme of the files here
 
--------------
-horizontal line - type lots of - to add a line, or lots of _
+Square bracket for link title. Round brackets for link title. 
 
-_________
+[Text stuff](text_stuff.md)
 
+[Header](header.md)
+
+[Tables explanation](tables.md)
+
+[Making lists and bullet points](Lists_and_bullet.md)
+
+Need seperating line to make space.
+Not
+Like 
+This
+
+Unelss you give GitHub a url or specify a folder, the file needs to be in the working directary. 
