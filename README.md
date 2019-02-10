@@ -19,3 +19,9 @@ Like
 This
 
 Unelss you give GitHub a url or specify a folder, the file needs to be in the working directary. 
+
+Linking to other folders:
+
+[dummy from methds](/Methods/dummy1.md)
+
+Just /Methods/ before file name
