@@ -25,3 +25,7 @@ Linking to other folders:
 [dummy from methds](/Methods/dummy1.md)
 
 Just /Methods/ before file name
+
+Adding an image:
+
+![]() where the () is the image's address
