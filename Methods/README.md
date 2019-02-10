@@ -5,3 +5,5 @@ To make a new folder in github you need to make a file within it. So Methods/rea
 This folder contians these files:
 
 [Dummy file 1](dummy1.md)
+
+Link to original home readme: [front page](../README.md)
